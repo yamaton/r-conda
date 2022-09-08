@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - r-base
+  - jupyterlab-lsp
+  - python-lsp-server
+  - r-languageserver
+  - rpy2
+  - pandas
